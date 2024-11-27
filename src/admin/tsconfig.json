@@ -13,6 +13,7 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "noEmit": true,
+    "typeRoots": ["node_modules/@types"],
     "jsx": "react-jsx"
   },
   "include": ["../plugins/**/admin/src/**/*", "./"],

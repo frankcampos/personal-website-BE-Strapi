@@ -13,6 +13,7 @@
     "noEmitOnError": true,
     "noImplicitThis": true,
     "outDir": "dist",
+    "typeRoots": ["node_modules/@types"],
     "rootDir": "."
   },
   "include": [

@@ -13,7 +13,7 @@
   "dependencies": {
     "@strapi/plugin-cloud": "5.4.1",
     "@strapi/plugin-users-permissions": "5.4.1",
-    "@strapi/strapi": "5.4.1",
+    "@strapi/strapi": "^5.4.1",
     "better-sqlite3": "11.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -21,6 +21,10 @@
     "styled-components": "^6.0.0"
   },
   "devDependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/eslint": "^9.6.1",
+    "@types/estree": "^1.0.6",
+    "@types/express": "^5.0.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
